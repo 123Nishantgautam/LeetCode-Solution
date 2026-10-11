@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0075-sort-colors) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 <!---LeetCode Topics End-->
