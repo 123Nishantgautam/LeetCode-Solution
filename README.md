@@ -38,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
