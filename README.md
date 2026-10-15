@@ -52,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0441-arranging-coins) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
