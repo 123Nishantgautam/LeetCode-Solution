@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0905-sort-array-by-parity) |
@@ -59,5 +60,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0441-arranging-coins](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
