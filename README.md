@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0441-arranging-coins) |
 ## Binary Search
 |  |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0525-contiguous-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
