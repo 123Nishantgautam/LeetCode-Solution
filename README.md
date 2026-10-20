@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0905-sort-array-by-parity](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -45,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0525-contiguous-array) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -73,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0319-bulb-switcher) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
