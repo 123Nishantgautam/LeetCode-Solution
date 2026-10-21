@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0189-rotate-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0441-arranging-coins) |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
