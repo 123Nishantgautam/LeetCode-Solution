@@ -102,5 +102,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
