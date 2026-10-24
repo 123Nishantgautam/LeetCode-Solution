@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0525-contiguous-array) |
 | [0905-sort-array-by-parity](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
