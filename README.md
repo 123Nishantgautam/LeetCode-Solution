@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0525-contiguous-array) |
 | [0905-sort-array-by-parity](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1539-kth-missing-positive-number](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0441-arranging-coins](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0441-arranging-coins) |
+| [1539-kth-missing-positive-number](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/1539-kth-missing-positive-number) |
 ## Prefix Sum
 |  |
 | ------- |
