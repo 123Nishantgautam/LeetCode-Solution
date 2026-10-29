@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0525-contiguous-array) |
+| [0875-koko-eating-bananas](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/1539-kth-missing-positive-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0441-arranging-coins](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0441-arranging-coins) |
+| [0875-koko-eating-bananas](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/123Nishantgautam/LeetCode-Solution/tree/master/1539-kth-missing-positive-number) |
 ## Prefix Sum
 |  |
